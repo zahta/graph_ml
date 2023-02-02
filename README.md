@@ -3,7 +3,7 @@
 
 |<b>Lecturer</b>    |   |
 |:-:|:-:|
-| <img src="https://raw.githubusercontent.com/zahta/zahta/main/img/zahra_taheri.png"  width="200" height="200"> <br> <b>[Zahra Taheri](https://github.com/zahta)</b>   | **[Data Science Center](http://ds.sbu.ac.ir/)**  <br>  <br> **[Shahid Beheshti University](https://en.sbu.ac.ir/)** <br>  <br> <b> Winter 2023</b> |
+| <img src="https://raw.githubusercontent.com/zahta/zahta/main/img/zahra_taheri.png"  width="180" height="180"> <br> <b>[Zahra Taheri](https://github.com/zahta)</b>   | **[Data Science Center](http://ds.sbu.ac.ir/)**  <br>  <br> **[Shahid Beheshti University](https://en.sbu.ac.ir/)** <br>  <br> <b> Winter 2023</b> |
 
 
 ## Course Overview
@@ -74,7 +74,8 @@ Sunday and Tuesday 13:30 pm to 3:00 pm
 
 ## Office Hours
 
-Sunday and Tuesday 12:30 pm to 1:15 pm
+Sunday and Tuesday 12:30 pm to 1:15 pm.   
+Also, students may ask their questions via the channel of the course.
 
 ## Exam
 
