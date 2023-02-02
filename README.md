@@ -6,46 +6,39 @@
 | <img src="https://raw.githubusercontent.com/zahta/zahta/main/img/zahra_taheri.png"  width="200" height="200"> <br> <b>[Zahra Taheri](https://github.com/zahta)</b>   | **[Data Science Center](http://ds.sbu.ac.ir/)**  <br>  <br> **[Shahid Beheshti University](https://en.sbu.ac.ir/)** <br>  <br> <b> Winter 2023</b> |
 
 
-
 ## Course Overview
 
-Graph Machine Learning is a branch of machine learning that deals with graph data.
+*Graph Machine Learning* is a course that focuses on the application of machine learning algorithms on graph-structured data. Some of the key topics that are covered in the course include graph representation learning and graph neural networks, algorithms for the world wide web, reasoning over knowledge graphs, and social network analysis. The course is designed for students with a background in machine learning and/or data science who want to expand their skills to work with graph data. The course may also be useful for students and professionals working in fields such as computer science, biology, chemistry, and physics that require the analysis of graph-structured data. The objective of the course is to provide students with a comprehensive understanding of graph machine learning and its various applications, challenges, and opportunities, as well as hands-on experience in implementing these algorithms.
 
 
 ## Prerequisites
 
-- Knowledge of basic computer science principles, sufficient to write a reasonably non-trivial computer program.
-- Familiarity with the basic probability theory
-- Familiarity with the basic linear algebra
+- Familiarity with the basic probability theory, and the basic linear algebra
+- Familiarity with the basics of Python programming language
+- Basic knowledge of machine learning and/or deep learning concepts
 
 
-## Course Materials
+## :books: Recommended Books and Materials
 
-The following books are recommended as optional reading:
-
-- Graph Representation Learning by William L. Hamilton
-- Networks, Crowds, and Markets: Reasoning About a Highly Connected World by David Easley and Jon Kleinberg
-- Network Science by Albert-László Barabási
-
-## Content
-
-- **Introduction**
-
-    - 
+- [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton
+- [Network Science](http://networksciencebook.com/) by Albert-László Barabási
+- [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/) by David Easley and Jon Kleinberg
 
 
+## Contents
 
-## Office Hours
+- **Introduction to Graph Machine Learning**
+- 
 
-Regular Office Hours: We will have office hours every day, starting from the 2nd week of the course. Office hours will be held over Zoom. These office hours are open to any enrolled students (including SCPD students).
-Schedule and location: Check the calendar below. All the CAs will be holding their office hours through Zoom.
-Queuing: We will be using QueueStatus to manage more efficiently the queue of students waiting for a CA.
-Update: Based on student feedback, we have decided to hold in-person OHs on Wednesday 9 - 11 AM.
 
 
 ## Homework and assignments
 
-## Honor Code and Submission Policy
+### Honor Code and Submission Policy
+
+In the Graph Machine Learning course, the Honor Code and Submission Policy serve as the foundation for ethical and academic standards. All students are expected to adhere to the Honor Code by not engaging in academic misconduct such as plagiarism or cheating on exams. The Submission Policy requires that all assignments are submitted on time, in the specified format, and accurately reflect the student's own work. Late submissions may be accepted with a penalty, as outlined in the policy. Failure to comply with the Honor Code and Submission Policy may result in consequences such as a reduced grade or failure in the course. It is the responsibility of all students to familiarize themselves with the Honor Code and Submission Policy and to maintain the highest level of academic integrity.
+
+
 The following paragraphs apply both to any material submitted for this course (homework, project proposal, project milestone, and so on).
 
 Honor code: We strongly encourage students to form study groups. Students may discuss and work on homework problems in groups. However, each student must write down the solutions independently, and without referring to written notes from the joint session. In other words, each student must understand the solution well enough in order to reconstruct it by him/herself. In addition, each student should write on the problem set the group of people with whom she/he collaborated.
@@ -60,15 +53,27 @@ Late submissions: Each student will have a total of two late periods to use for 
 
 Please start submitting to Gradescope 30 minutes before the deadline. In previous quarters, Gradescope has been very unresponsive at midnight. In case you cannot successfully submit before 11:59pm, we will offer a 15 minute grace period to submit your assignment. This is a hard deadline and we will accept no assignments after this time.
 
-## Exam
-
 
 ## Grading
-The grading will be based on the following weighting scheme:
 
-25% on 3 Homework (8.3% each)
-20% on 5 Colabs (4% each)
-35% on the Exam
-20% on the Final Project
-Course participation (Ed Discussion, code contributions, etc.) as extra credit
+The weighting scheme of the grading:
 
+- 20% on Homeworks
+- 25% on the Mid-Term Exam
+- 35% on the Final Exam
+- 20% on the Final Project
+- Course participation and contribution in the discussions as extra credit
+
+
+## Course Schedule
+
+Sunday and Tuesday 13:30 pm to 3:00 pm
+
+## Office Hours
+
+Sunday and Tuesday 12:30 pm to 1:15 pm
+
+## Exam
+
+- Mid-Term:
+- Final:
