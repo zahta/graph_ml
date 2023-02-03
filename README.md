@@ -17,8 +17,10 @@
 ## Prerequisites
 
 - Familiarity with the basic probability theory, and the basic linear algebra
-- Familiarity with the basics of Python programming language
 - Basic knowledge of machine learning and/or deep learning concepts
+- Familiarity with the basics of Python programming language
+- Familiarity with PyTorch is a plus
+
 
 
 ## :books: Recommended Books and Materials
@@ -26,6 +28,12 @@
 - [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton
 - [Network Science](http://networksciencebook.com/) by Albert-László Barabási
 - [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/) by David Easley and Jon Kleinberg
+
+##  Graph Machine Learning Tools
+
+- [DGL (Deep Graph Library)](https://www.dgl.ai/)
+- [PyG (PyTorch Geometric)](https://www.pyg.org/)
+- [NetworkX](https://networkx.org/)
 
 
 ## Contents
@@ -35,7 +43,9 @@
 
 
 
-## Homework and assignments
+## Homework and assignment
+
+More information about homeworks, assignments, and projects will be posted here. 
 
 ### :copyright: Honor Code and Submission Policy
 
@@ -73,7 +83,6 @@ The weighting scheme of the grading:
 Sunday and Tuesday 13:30pm to 3:00pm
 
 **Office Hours**
-
 Sunday and Tuesday 1:00pm   
 Also, students may ask their questions via the channel of the course.
 
