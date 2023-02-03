@@ -40,7 +40,7 @@
 
 The contents and materials related to the course with be posted here.
 
-- **Introduction to Graph Machine Learning**
+### Introduction to Graph Machine Learning
 
 
 ## Homework and assignment
