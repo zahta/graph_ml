@@ -14,7 +14,7 @@
 
   </div>
 
-## Prerequisites
+## :beginner: Prerequisites
 
 - Familiarity with the basic probability theory, and the basic linear algebra
 - Basic knowledge of machine learning and/or deep learning concepts
@@ -30,20 +30,28 @@
 - [Network Science](http://networksciencebook.com/) by Albert-László Barabási
 - [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/) by David Easley and Jon Kleinberg
 
+### Courses
+- [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) by Jure Leskovec
+
 ###  Graph Machine Learning Tools
 - [DGL (Deep Graph Library)](https://www.dgl.ai/)
 - [PyG (PyTorch Geometric)](https://www.pyg.org/)
 - [NetworkX](https://networkx.org/)
 
 
-## Contents
+## :book: Contents
 
 The contents and materials related to the course with be posted here.
 
 ### 1. Introduction to Graph Machine Learning
 
+- **Required Reading:** 
+     - Slide: [Introduction; Machine Learning for Graphs](http://snap.stanford.edu/class/cs224w-2020/slides/01-intro.pdf) by Jure Leskovec
+    
+- **Suggested Reading:**
 
-## Homework and assignment
+
+## :pencil: Homework and assignment
 
 More information about homeworks, assignments, and projects will be posted here. 
 
