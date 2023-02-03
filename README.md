@@ -82,7 +82,7 @@ The weighting scheme of the grading:
 
 Sunday and Tuesday 13:30pm to 3:00pm
 
-**Office Hours**
+**Office Hours**  
 Sunday and Tuesday 1:00pm   
 Also, students may ask their questions via the channel of the course.
 
