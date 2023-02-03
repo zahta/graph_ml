@@ -30,14 +30,18 @@
 - [Network Science](http://networksciencebook.com/) by Albert-László Barabási
 - [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/) by David Easley and Jon Kleinberg
 
-### Courses
-- [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) by Jure Leskovec
-
 ###  Graph Machine Learning Tools
 - [DGL (Deep Graph Library)](https://www.dgl.ai/)
 - [PyG (PyTorch Geometric)](https://www.pyg.org/)
 - [NetworkX](https://networkx.org/)
 
+### Courses
+- [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) by Jure Leskovec
+
+
+## :closed_book: Other Materials
+### Books 
+- [Deep Learning on Graphs](https://www.cambridge.org/core/books/deep-learning-on-graphs/CF908050EECC148A9E6F3EAED6099DB4) by Yao Ma and Jiliang Tang 
 
 ## :book: Contents
 
