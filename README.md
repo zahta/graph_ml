@@ -83,10 +83,10 @@ Please start submitting to Gradescope 30 minutes before the deadline. In previou
 
 The weighting scheme of the grading:
 
-- 20% on Homeworks
+- 15% on Homeworks
 - 25% on the Mid-Term Exam
 - 35% on the Final Exam
-- 20% on the Final Project
+- 25% on the Final Project
 - Course participation and contribution in the discussions as extra credit
 
 
