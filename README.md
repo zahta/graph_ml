@@ -6,7 +6,7 @@
 | <img src="https://raw.githubusercontent.com/zahta/zahta/main/img/zahra_taheri.png"  width=40% > <br> <b>[Zahra Taheri](https://github.com/zahta)</b>   | **[Data Science Center](http://ds.sbu.ac.ir/)**  <br>  <br> **[Shahid Beheshti University](https://en.sbu.ac.ir/)** <br>  <br> <b> Winter 2023</b> |
 
 
-## Course Overview
+## :bulb: Course Overview
 
 <div align="justify">
   
@@ -37,7 +37,7 @@
 
 ## Homework and assignments
 
-### Honor Code and Submission Policy
+### :copyright: Honor Code and Submission Policy
 
 In the Graph Machine Learning course, the Honor Code and Submission Policy serve as the foundation for ethical and academic standards. All students are expected to adhere to the Honor Code by not engaging in academic misconduct such as plagiarism or cheating on exams. The Submission Policy requires that all assignments are submitted on time, in the specified format, and accurately reflect the student's own work. Late submissions may be accepted with a penalty, as outlined in the policy. Failure to comply with the Honor Code and Submission Policy may result in consequences such as a reduced grade or failure in the course. It is the responsibility of all students to familiarize themselves with the Honor Code and Submission Policy and to maintain the highest level of academic integrity.
 
@@ -57,7 +57,7 @@ Late submissions: Each student will have a total of two late periods to use for 
 Please start submitting to Gradescope 30 minutes before the deadline. In previous quarters, Gradescope has been very unresponsive at midnight. In case you cannot successfully submit before 11:59pm, we will offer a 15 minute grace period to submit your assignment. This is a hard deadline and we will accept no assignments after this time.
 
 
-## Grading
+## :bar_chart: Grading
 
 The weighting scheme of the grading:
 
@@ -68,16 +68,16 @@ The weighting scheme of the grading:
 - Course participation and contribution in the discussions as extra credit
 
 
-## Course Schedule
+## :clock130: Course Schedule
 
-Sunday and Tuesday 13:30 pm to 3:00 pm
+Sunday and Tuesday 13:30pm to 3:00pm
 
-## Office Hours
+**Office Hours**
 
-Sunday and Tuesday 12:30 pm to 1:15 pm.   
+Sunday and Tuesday 1:00pm   
 Also, students may ask their questions via the channel of the course.
 
-## Exam
+## :alarm_clock: Exam
 
 - Mid-Term:
 - Final:
