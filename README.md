@@ -3,7 +3,7 @@
 
 |<b>Lecturer</b>    |   |
 |:-:|:-:|
-| <img src="https://raw.githubusercontent.com/zahta/zahta/main/img/zahra_taheri.png"  width=150pt > <br> <b>[Zahra Taheri](https://github.com/zahta)</b>   | **[Data Science Center](http://ds.sbu.ac.ir/)**  <br>  <br> **[Shahid Beheshti University](https://en.sbu.ac.ir/)** <br>  <br> <b> Winter 2023</b> |
+| <img src="https://raw.githubusercontent.com/zahta/zahta/main/img/zahra_taheri.png"  width=170pt > <br> <b>[Zahra Taheri](https://github.com/zahta)</b>   | **[Data Science Center](http://ds.sbu.ac.ir/)**  <br>  <br> **[Shahid Beheshti University](https://en.sbu.ac.ir/)** <br>  <br> <b> Winter 2023</b> |
 
 
 ## :bulb: Course Overview
@@ -79,5 +79,5 @@ Also, students may ask their questions via the channel of the course.
 
 ## :alarm_clock: Exam
 
-- Mid-Term:
-- Final:
+- Mid-Term: Sunday, 16 April 2023
+- Final: Saturday, 17 June 2023
