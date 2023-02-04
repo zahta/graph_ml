@@ -1,13 +1,7 @@
 
 # Course: Graph Machine Learning
 
-<div align="justify">
-
-:star: **The highest activity a human being can attain is learning for understanding, because to understand is to be free.** *Baruch Spinoza*
-
-</div>
-
--------------------------------------
+> **The highest activity a human being can attain is learning for understanding, <br> because to understand is to be free.** *Baruch Spinoza*
 
 |<b>Lecturer</b>    |   |
 |:-:|:-:|
