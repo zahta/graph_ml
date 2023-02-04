@@ -22,7 +22,6 @@
 - Familiarity with PyTorch is a plus
 
 
-
 ## :books: Recommended Materials
 
 ### Books
@@ -51,8 +50,8 @@ The contents and materials related to the course with be posted here.
 
 - **Required Reading:** 
      - Slide: [Introduction; Machine Learning for Graphs](http://snap.stanford.edu/class/cs224w-2020/slides/01-intro.pdf) by Jure Leskovec
-    
-- **Suggested Reading:**
+
+[//]: # (- **Suggested Reading:**)
 
 
 ## :pencil: Homework and assignment
@@ -60,15 +59,16 @@ The contents and materials related to the course with be posted here.
 More information about homeworks, assignments, and projects will be posted here. 
 
 ### :copyright: Honor Code and Submission Policy
+The Honor Code and Submission Policy are the foundation for ethical and academic standards in the Graph Machine Learning course. All students are expected to adhere to the Honor Code by not engaging in academic misconduct such as plagiarism or cheating on exams. The Submission Policy requires that all assignments are submitted on time, in the specified format, and accurately reflect the student's own work. Late submissions may be accepted with a penalty, as outlined in the policy. Failure to comply with the Honor Code and Submission Policy may result in consequences such as a reduced grade or failure in the course. It is the responsibility of all students to familiarize themselves with the Honor Code and Submission Policy and to maintain the highest level of academic integrity.
 
 
 ## :bar_chart: Grading
 
 The weighting scheme of the grading:
 
-- 15% on Homeworks
+- 20% on Homeworks
 - 25% on the Mid-Term Exam
-- 35% on the Final Exam
+- 30% on the Final Exam
 - 25% on the Final Project
 - Course participation and contribution in the discussions as extra credit
 
@@ -79,7 +79,7 @@ Sunday and Tuesday 13:30pm to 3:00pm
 
 **Office Hours**  
 Sunday and Tuesday 1:00pm   
-Also, students may ask their questions via the channel of the course.
+Also, students may ask their questions via the group of the course.
 
 ## :alarm_clock: Exam
 
