@@ -61,8 +61,12 @@ The contents and materials related to the course will be posted here.
 More information about homeworks, assignments, and projects will be posted here. 
 
 ### :copyright: Honor Code and Submission Policy
+
+<div align="justify">
+
 The Honor Code and Submission Policy are the foundation for ethical and academic standards in the Graph Machine Learning course. All students are expected to adhere to the Honor Code by not engaging in academic misconduct such as plagiarism or cheating on exams. The Submission Policy requires that all assignments are submitted on time, in the specified format, and accurately reflect the student's own work. Late submissions may be accepted with a penalty, as outlined in the policy. Failure to comply with the Honor Code and Submission Policy may result in consequences such as a reduced grade or failure in the course. It is the responsibility of all students to familiarize themselves with the Honor Code and Submission Policy and to maintain the highest level of academic integrity.
 
+</div>
 
 ## :bar_chart: Grading
 
