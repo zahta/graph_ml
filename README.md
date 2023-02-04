@@ -44,7 +44,7 @@
 
 ## :book: Contents
 
-The contents and materials related to the course with be posted here.
+The contents and materials related to the course will be posted here.
 
 ### 1. Introduction to Graph Machine Learning
 
