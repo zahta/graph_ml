@@ -42,7 +42,8 @@
 
 ## :closed_book: Other Materials
 ### Books 
-- [Deep Learning on Graphs](https://www.cambridge.org/core/books/deep-learning-on-graphs/CF908050EECC148A9E6F3EAED6099DB4) by Yao Ma and Jiliang Tang 
+- [Deep Learning on Graphs](https://www.cambridge.org/core/books/deep-learning-on-graphs/CF908050EECC148A9E6F3EAED6099DB4) by Yao Ma and Jiliang Tang
+- [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://geometricdeeplearning.com/) by Michael M. Bronstein, Joan Bruna, Taco Cohen, and Petar Veličković
 
 ## :book: Contents
 
