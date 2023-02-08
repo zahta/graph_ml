@@ -52,10 +52,21 @@ The contents and materials related to the course will be posted here.
 ### 1. Introduction to Graph Machine Learning
 
 - **Required Reading:** 
-     - Slide: [Introduction; Machine Learning for Graphs](http://snap.stanford.edu/class/cs224w-2020/slides/01-intro.pdf) by Jure Leskovec
+     - **Slide:** [Introduction; Machine Learning for Graphs](http://snap.stanford.edu/class/cs224w-2020/slides/01-intro.pdf) by Jure Leskovec
 
-[//]: # (- **Suggested Reading:**)
-
+- **Suggested Reading:**
+     - **Papers:** 
+          - Node-Level ML Task: 
+            - [Alphafold2: Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2) by Jumper, et.al., Nature 2021. 
+          - Edge-Level ML Task: 
+            - [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/pdf/1806.01973.pdf) by Ying et.al., KDD 2018.
+            - [Modeling Polypharmacy Side Effects with Graph Convolutional Networks](https://arxiv.org/pdf/1802.00543.pdf) by Zitnik et.al., Bioinformatics 2018.
+          - Subgraph-Level ML Task:
+            - [ETA Prediction with Graph Neural Networks in Google Maps](https://dl.acm.org/doi/abs/10.1145/3459637.3481916) by Derrow-Pinion et.al., CIKM 2021.
+          - Graph-Level ML Task:
+            - [A Deep Learning Approach to Antibiotic Discovery](https://www.cell.com/cell/fulltext/S0092-8674(20)30102-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420301021%3Fshowall%3Dtrue) by Stokes et.al., Cell 2020.
+            - [Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation](http://papers.neurips.cc/paper/7877-graph-convolutional-policy-network-for-goal-directed-molecular-graph-generation.pdf) by You et.al., NeurIPS 2018.
+            - [Learning to simulate complex physics with graph networks](https://arxiv.org/abs/2002.09405) by Sanchez-Gonzalez et al., ICML 2020. 
 
 ## :pencil: Homework and assignment
 
@@ -80,12 +91,12 @@ The weighting scheme of the grading:
 - Course participation and contribution in the discussions as extra credit
 
 
-## :clock130: Course Schedule
+## :clock1: Course Schedule
 
-Sunday and Tuesday 13:30pm to 3:00pm
+Sunday and Tuesday 13pm to 14:30pm
 
 **Office Hours**  
-Sunday and Tuesday 1:00pm   
+Sunday and Tuesday 12:30pm   
 Also, students may ask their questions via the group of the course.
 
 ## :alarm_clock: Exam
