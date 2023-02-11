@@ -77,7 +77,7 @@ The contents and materials related to the course will be posted here.
      - **Slide:** [Traditional Methods for ML on Graphs](http://snap.stanford.edu/class/cs224w-2020/slides/02-tradition-ml.pdf) by Jure Leskovec
 
 - **Suggested Reading:**
-     - **Blog:** [Link Prediction In Large-Scale Networks](https://hackernoon.com/link-prediction-in-large-scale-networks-f836fcb05c88?gi=b86a42e1c8d4)
+     - **Blog:** [Link Prediction in Large-Scale Networks](https://hackernoon.com/link-prediction-in-large-scale-networks-f836fcb05c88?gi=b86a42e1c8d4)
 
 ## :pencil: Homework and assignment
 
