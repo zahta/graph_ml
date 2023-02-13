@@ -39,6 +39,8 @@
 ### Courses
 - [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) by Jure Leskovec
 
+### Tips and Tools for Data Science
+- [Fundamental and Useful Tools and Tips for Data Science](https://github.com/zahta/tools_tips_data_science)
 
 ## :closed_book: Other Materials
 ### Books 
