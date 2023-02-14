@@ -85,6 +85,8 @@ The contents and materials related to the course will be posted here.
 
 More information about homeworks, assignments, and projects will be posted here. 
 
+- [Assignment Set 1](https://github.com/zahta/graph_ml/tree/main/assignments): Deadline 21 Feb 2023 (2 Esfand 1401) at 11:59pm.
+
 ### :copyright: Honor Code and Submission Policy
 
 <div align="justify">
@@ -106,7 +108,7 @@ The weighting scheme of the grading:
 
 ## :clock1: Course Schedule
 
-Sunday and Tuesday 13pm to 14:30pm
+Sunday and Tuesday 1pm to 2:30pm
 
 **Office Hours**  
 Sunday and Tuesday 12:30pm   
