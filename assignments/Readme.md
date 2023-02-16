@@ -13,7 +13,7 @@ and send its link to the course's group, as soon as possible.
   Do [these Python exercises](https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody) up to
   the exercise "comparing and sorting tuples", and take a photo from your final score and put it on your GitHub repository of the course.
   - **Part 2: Numpy, Pandas, and Matplotlib**   
-  In each of the following sets of exercises, do at least 30 of them (the more, the better). Save the .ipynb or .pdf files 
+  In each of the following sets of exercises, do at least 30 of them (the more, the better). Save the **.ipynb** or **.pdf** files 
   of your assignments on your GitHub repository of the course.
     - [100 NumPy Exercises](https://labex.io/courses/100-numpy-exercises)
     - [100 Pandas Exercises](https://labex.io/courses/100-pandas-exercises)  
