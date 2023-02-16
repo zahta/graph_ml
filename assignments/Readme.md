@@ -13,7 +13,7 @@ and send its link to the course's group, as soon as possible.
   Do [these Python exercises](https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody) up to
   the exercise "comparing and sorting tuples", and take a photo from your final score and put it on your GitHub repository of the course.
   - **Part 2: Numpy, Pandas, and Matplotlib**   
-  In each of the following sets of exercises, do at least 30 of them (the more, the better). Use Git to save the .ipynb files of your assignments **from Labex to your GitHub repository** (**with a bonus**), or use similar .ipynb files that I have already saved to the course repository using Git (**without a bonus**).
+    In each of the following sets of exercises, do at least 30 of them (the more, the better). Use Git to save the .ipynb files of your assignments **from Labex to your GitHub repository** (**with a bonus**), or use similar .ipynb files that I have already saved to the course repository using Git (**without a bonus**).
     - [100 NumPy Exercises](https://labex.io/courses/100-numpy-exercises)
     - [100 Pandas Exercises](https://labex.io/courses/100-pandas-exercises)  
     - [Draw 2D and 3D Graphics with Matplotlib](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib)
