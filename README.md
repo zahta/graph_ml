@@ -80,7 +80,9 @@ The contents and materials related to the course will be posted here.
 
 #### Suggested Reading:
   - **Blog:** [Link Prediction in Large-Scale Networks](https://hackernoon.com/link-prediction-in-large-scale-networks-f836fcb05c88?gi=b86a42e1c8d4)
-  - **Slide:** [Introduction to Kernel Methods](https://www.cs.upc.edu/~belanche/Talks/MEETUP-July2014.pdf)
+  - **Slide:** 
+    - [Introduction to Kernel Methods](https://www.cs.upc.edu/~belanche/Talks/MEETUP-July2014.pdf)
+    - [Elements of Positive Definite Kernel and Reproducing Kernel Hilbert Space](https://www.ism.ac.jp/~fukumizu/H20_kernel/Kernel_2_elements.pdf)
   - **Paper:** [Graph Kernels](http://jmlr.csail.mit.edu/papers/volume11/vishwanathan10a/vishwanathan10a.pdf) by Vishwanathan et al., Journal of Machine Learning Research 2010.
   - **Question:** [How does the dot product determine similarity?](https://math.stackexchange.com/questions/689022/how-does-the-dot-product-determine-similarity)
      
