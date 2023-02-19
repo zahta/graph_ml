@@ -30,6 +30,7 @@
 - [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton
 - [Network Science](http://networksciencebook.com/) by Albert-László Barabási
 - [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/) by David Easley and Jon Kleinberg
+- [Analysis of Biological Networks](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470253489), 2007.
 
 ###  Graph Machine Learning Tools
 - [DGL (Deep Graph Library)](https://www.dgl.ai/)
@@ -121,7 +122,7 @@ The weighting scheme of the grading:
 
 ## :clock1: Course Schedule
 
-Sunday and Tuesday 1pm to 2:30pm
+Sunday and Tuesday 1:30pm to 3pm
 
 **Office Hours**  
 Sunday and Tuesday 12:30pm   
