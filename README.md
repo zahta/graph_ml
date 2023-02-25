@@ -95,6 +95,10 @@ The contents and materials related to the course will be posted here.
 #### Required Reading:
   - **Slide:** [Node Embeddings](http://snap.stanford.edu/class/cs224w-2020/slides/03-nodeemb.pdf) by Jure Leskovec
 
+#### Suggested Reading:
+  - **Blog:** [Complete guide to understanding Node2Vec algorithm](https://towardsdatascience.com/complete-guide-to-understanding-node2vec-algorithm-4e9a35e5d147) by Tomaz Bratanic
+  
+  
 ## :pencil: Homework and assignment
 
 More information about homeworks, assignments, and projects will be posted here. 
