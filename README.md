@@ -97,6 +97,7 @@ The contents and materials related to the course will be posted here.
 
 #### Suggested Reading:
   - **Blog:** [Complete guide to understanding Node2Vec algorithm](https://towardsdatascience.com/complete-guide-to-understanding-node2vec-algorithm-4e9a35e5d147) by Tomaz Bratanic
+  - **Blog:** [Understanding Representation Learning With Autoencoder](https://neptune.ai/blog/representation-learning-with-autoencoder#:~:text=It%20is%20a%20modified%20version,autoencoders%2C%20they%20are%20fairly%20limited.) by Nilesh Barla
   
   
 ## :pencil: Homework and assignment
