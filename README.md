@@ -80,7 +80,10 @@ The contents and materials related to the course will be posted here.
   - **Slide:** [Traditional Methods for ML on Graphs](http://snap.stanford.edu/class/cs224w-2020/slides/02-tradition-ml.pdf) by Jure Leskovec
 
 #### Suggested Reading:
-  - **Blog:** [Link Prediction in Large-Scale Networks](https://hackernoon.com/link-prediction-in-large-scale-networks-f836fcb05c88?gi=b86a42e1c8d4)
+  - **Blog:** 
+    - [Link Prediction in Large-Scale Networks](https://hackernoon.com/link-prediction-in-large-scale-networks-f836fcb05c88?gi=b86a42e1c8d4) by Cdiscount Data Science
+    - [Expressive power of graph neural networks and the Weisfeiler-Lehman test](https://towardsdatascience.com/expressive-power-of-graph-neural-networks-and-the-weisefeiler-lehman-test-b883db3c7c49) by Michael Bronstein
+  
   - **Slide:** 
     - [Introduction to Kernel Methods](https://www.cs.upc.edu/~belanche/Talks/MEETUP-July2014.pdf)
     - [Elements of Positive Definite Kernel and Reproducing Kernel Hilbert Space](https://www.ism.ac.jp/~fukumizu/H20_kernel/Kernel_2_elements.pdf)
@@ -125,7 +128,7 @@ The weighting scheme of the grading:
 - Course participation and contribution in the discussions as extra credit
 
 
-## :clock1: Course Schedule
+## :clock130: Course Schedule
 
 Sunday and Tuesday 1:30pm to 3pm
 
