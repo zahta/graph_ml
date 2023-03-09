@@ -115,7 +115,8 @@ The contents and materials related to the course will be posted here.
 
 More information about homeworks, assignments, and projects will be posted here. 
 
-- [Assignment Set 1](https://github.com/zahta/graph_ml/tree/main/assignments): Deadline 21 Feb 2023 (2 Esfand 1401) at 11:59pm.
+- [Assignment Set 1](https://github.com/zahta/graph_ml/tree/main/assignments#assignment-set-1-deadline-21-feb-2023-2-esfand-1401-at-1159pm): Deadline 21 Feb 2023 (2 Esfand 1401) at 11:59pm.
+- [Assignment Set 2](https://github.com/zahta/graph_ml/blob/main/assignments/Readme.md#assignment-set-2-deadline-14-mar-2023-23-esfand-1401-at-1159pm): Deadline 14 Mar 2023 (23 Esfand 1401) at 11:59pm.
 
 ### :copyright: Honor Code and Submission Policy
 
