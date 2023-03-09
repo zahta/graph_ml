@@ -30,6 +30,7 @@
 - [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton
 - [Network Science](http://networksciencebook.com/) by Albert-László Barabási
 - [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/) by David Easley and Jon Kleinberg
+- [Analysis of Biological Networks](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470253489), 2007.
 
 ###  Graph Machine Learning Tools
 - [DGL (Deep Graph Library)](https://www.dgl.ai/)
@@ -75,12 +76,41 @@ The contents and materials related to the course will be posted here.
 
 ### 2. Traditional Methods for Machine Learning on Graphs
 
-- **Required Reading:** 
-     - **Slide:** [Traditional Methods for ML on Graphs](http://snap.stanford.edu/class/cs224w-2020/slides/02-tradition-ml.pdf) by Jure Leskovec
+#### Required Reading:
+  - **Slide:** [Traditional Methods for ML on Graphs](http://snap.stanford.edu/class/cs224w-2020/slides/02-tradition-ml.pdf) by Jure Leskovec
 
-- **Suggested Reading:**
-     - **Blog:** [Link Prediction in Large-Scale Networks](https://hackernoon.com/link-prediction-in-large-scale-networks-f836fcb05c88?gi=b86a42e1c8d4)
+#### Suggested Reading:
+  - **Blog:** 
+    - [Link Prediction in Large-Scale Networks](https://hackernoon.com/link-prediction-in-large-scale-networks-f836fcb05c88?gi=b86a42e1c8d4) by Cdiscount Data Science
+    - [Expressive power of graph neural networks and the Weisfeiler-Lehman test](https://towardsdatascience.com/expressive-power-of-graph-neural-networks-and-the-weisefeiler-lehman-test-b883db3c7c49) by Michael Bronstein
+  
+  - **Slide:** 
+    - [Introduction to Kernel Methods](https://www.cs.upc.edu/~belanche/Talks/MEETUP-July2014.pdf)
+    - [Elements of Positive Definite Kernel and Reproducing Kernel Hilbert Space](https://www.ism.ac.jp/~fukumizu/H20_kernel/Kernel_2_elements.pdf)
+  - **Paper:** 
+    - [Graph Kernels](http://jmlr.csail.mit.edu/papers/volume11/vishwanathan10a/vishwanathan10a.pdf) by Vishwanathan et al., JMLR 2010.
+    - [Efficient graphlet kernels for large graph comparison](https://proceedings.mlr.press/v5/shervashidze09a.html) by Shervashidze et al., JMLR 2009.
+    - [Weisfeiler-Lehman Graph Kernels](https://jmlr.csail.mit.edu/papers/v12/shervashidze11a.html) by Shervashidze et al., JMLR 2011.
+  - **Question:** [How does the dot product determine similarity?](https://math.stackexchange.com/questions/689022/how-does-the-dot-product-determine-similarity)
+     
+### 3. Node Embeddings
 
+#### Required Reading:
+  - **Slide:** [Node Embeddings](http://snap.stanford.edu/class/cs224w-2020/slides/03-nodeemb.pdf) by Jure Leskovec
+
+#### Suggested Reading:
+  - **Blog:** 
+    - [Complete guide to understanding Node2Vec algorithm](https://towardsdatascience.com/complete-guide-to-understanding-node2vec-algorithm-4e9a35e5d147) by Tomaz Bratanic
+    - [Node2Vec Explained](https://towardsdatascience.com/node2vec-explained-db86a319e9ab) by Vatsal
+    - [node2vec: Embeddings for Graph Data](https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef) by Elior Cohen
+    - [Node2vec explained graphically](https://towardsdatascience.com/node2vec-explained-graphically-749e49b7eb6b) by Remy Lau
+    - [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) by Chris McCormick 
+    - [Understanding Representation Learning With Autoencoder](https://neptune.ai/blog/representation-learning-with-autoencoder#:~:text=It%20is%20a%20modified%20version,autoencoders%2C%20they%20are%20fairly%20limited.) by Nilesh Barla
+  - **Video:** 
+    - [Graph Embeddings (node2vec) explained - How nodes get mapped to vectors](https://www.youtube.com/watch?v=pS_POUVFXvk) by Philipp Brunenberg
+    - [Node2Vec: Scalable Feature Learning for Networks | ML with Graphs (Research Paper Walkthrough)](https://www.youtube.com/watch?v=LpwGZG5j_q0) by TechViz-The Data Science Guy
+  
+  
 ## :pencil: Homework and assignment
 
 More information about homeworks, assignments, and projects will be posted here. 
@@ -106,9 +136,9 @@ The weighting scheme of the grading:
 - Course participation and contribution in the discussions as extra credit
 
 
-## :clock1: Course Schedule
+## :clock130: Course Schedule
 
-Sunday and Tuesday 1pm to 2:30pm
+Sunday and Tuesday 1:30pm to 3pm
 
 **Office Hours**  
 Sunday and Tuesday 12:30pm   
