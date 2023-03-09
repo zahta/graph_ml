@@ -21,3 +21,5 @@ and send its link to the course's group, as soon as possible.
 ### Assignment Set 2: Deadline 14 Mar 2023 (23 Esfand 1401) at 11:59pm.   
 
 Understanding the concepts of these [two assignment sets](https://github.com/zahta/graph_ml/tree/main/assignments/assignment_set_2) will help you to solve the next assignments. Study the concepts presented in the two assignment sets and execute the codes. Try to understand the concepts correctly by printing the outputs and changing the parameters in each of the code cells.
+- First: [networkx_tutorial_full.ipynb](https://github.com/zahta/graph_ml/blob/main/assignments/assignment_set_2/networkx_tutorial_full.ipynb)
+- Second: [intro_networkx_pyg.ipynb](https://github.com/zahta/graph_ml/blob/main/assignments/assignment_set_2/intro_networkx_pyg.ipynb)
