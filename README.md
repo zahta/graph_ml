@@ -99,8 +99,16 @@ The contents and materials related to the course will be posted here.
   - **Slide:** [Node Embeddings](http://snap.stanford.edu/class/cs224w-2020/slides/03-nodeemb.pdf) by Jure Leskovec
 
 #### Suggested Reading:
-  - **Blog:** [Complete guide to understanding Node2Vec algorithm](https://towardsdatascience.com/complete-guide-to-understanding-node2vec-algorithm-4e9a35e5d147) by Tomaz Bratanic
-  - **Blog:** [Understanding Representation Learning With Autoencoder](https://neptune.ai/blog/representation-learning-with-autoencoder#:~:text=It%20is%20a%20modified%20version,autoencoders%2C%20they%20are%20fairly%20limited.) by Nilesh Barla
+  - **Blog:** 
+    - [Complete guide to understanding Node2Vec algorithm](https://towardsdatascience.com/complete-guide-to-understanding-node2vec-algorithm-4e9a35e5d147) by Tomaz Bratanic
+    - [Node2Vec Explained](https://towardsdatascience.com/node2vec-explained-db86a319e9ab) by Vatsal
+    - [node2vec: Embeddings for Graph Data](https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef) by Elior Cohen
+    - [Node2vec explained graphically](https://towardsdatascience.com/node2vec-explained-graphically-749e49b7eb6b) by Remy Lau
+    - [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) by Chris McCormick 
+    - [Understanding Representation Learning With Autoencoder](https://neptune.ai/blog/representation-learning-with-autoencoder#:~:text=It%20is%20a%20modified%20version,autoencoders%2C%20they%20are%20fairly%20limited.) by Nilesh Barla
+  - **Video:** 
+    - [Graph Embeddings (node2vec) explained - How nodes get mapped to vectors](https://www.youtube.com/watch?v=pS_POUVFXvk) by Philipp Brunenberg
+    - [Node2Vec: Scalable Feature Learning for Networks | ML with Graphs (Research Paper Walkthrough)](https://www.youtube.com/watch?v=LpwGZG5j_q0) by TechViz-The Data Science Guy
   
   
 ## :pencil: Homework and assignment
