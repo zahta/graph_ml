@@ -18,7 +18,7 @@ and send its link to the course's group, as soon as possible.
     - [100 Pandas Exercises](https://labex.io/courses/100-pandas-exercises)  
     - [Draw 2D and 3D Graphics with Matplotlib](https://labex.io/courses/draw-2d-and-3d-graphics-by-matplotlib)
     
-### Assignment Set 2: Deadline 14 Mar 2023 (23 Esfand 1401) at 11:59pm.   
+### Assignment Set 2: Deadline 17 Mar 2023 (26 Esfand 1401) at 11:59pm.   
 
 Understanding the concepts of these [two assignment sets](https://github.com/zahta/graph_ml/tree/main/assignments/assignment_set_2) will help you to solve the next assignments. Study the concepts presented in the two assignment sets and execute the codes. Try to understand the concepts correctly by printing the outputs and changing the parameters in each of the code cells.
 - First: [networkx_tutorial_full.ipynb](https://github.com/zahta/graph_ml/blob/main/assignments/assignment_set_2/networkx_tutorial_full.ipynb)
