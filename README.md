@@ -110,13 +110,23 @@ The contents and materials related to the course will be posted here.
     - [Graph Embeddings (node2vec) explained - How nodes get mapped to vectors](https://www.youtube.com/watch?v=pS_POUVFXvk) by Philipp Brunenberg
     - [Node2Vec: Scalable Feature Learning for Networks | ML with Graphs (Research Paper Walkthrough)](https://www.youtube.com/watch?v=LpwGZG5j_q0) by TechViz-The Data Science Guy
   
-  
+### 4. Graph Neural Networks 1: GNN Model
+
+#### Required Reading:
+  - **Slide:** [Graph Neural Networks 1: GNN Model](http://snap.stanford.edu/class/cs224w-2020/slides/06-GNN1.pdf) by Jure Leskovec
+
+#### Suggested Reading:
+  - **Blog:** 
+    - [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)  
+    - [Understanding Convolutions on Graphs](https://distill.pub/2021/understanding-gnns/)
+    
+    
 ## :pencil: Homework and assignment
 
 More information about homeworks, assignments, and projects will be posted here. 
 
 - [Assignment Set 1](https://github.com/zahta/graph_ml/tree/main/assignments#assignment-set-1-deadline-21-feb-2023-2-esfand-1401-at-1159pm): Deadline 21 Feb 2023 (2 Esfand 1401) at 11:59pm.
-- [Assignment Set 2](https://github.com/zahta/graph_ml/blob/main/assignments/Readme.md#assignment-set-2-deadline-14-mar-2023-23-esfand-1401-at-1159pm): Deadline 14 Mar 2023 (23 Esfand 1401) at 11:59pm.
+- [Assignment Set 2](https://github.com/zahta/graph_ml/blob/main/assignments/Readme.md#assignment-set-2-deadline-17-mar-2023-26-esfand-1401-at-1159pm): Deadline 17 Mar 2023 (26 Esfand 1401) at 11:59pm.
 
 ### :copyright: Honor Code and Submission Policy
 
