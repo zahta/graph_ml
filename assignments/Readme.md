@@ -23,3 +23,10 @@ and send its link to the course's group, as soon as possible.
 Understanding the concepts of these [two assignment sets](https://github.com/zahta/graph_ml/tree/main/assignments/assignment_set_2) will help you to solve the next assignments. Study the concepts presented in the two assignment sets and execute the codes. Try to understand the concepts correctly by printing the outputs and changing the parameters in each of the code cells.
 - First: [networkx_tutorial_full.ipynb](https://github.com/zahta/graph_ml/blob/main/assignments/assignment_set_2/networkx_tutorial_full.ipynb)
 - Second: [intro_networkx_pyg.ipynb](https://github.com/zahta/graph_ml/blob/main/assignments/assignment_set_2/intro_networkx_pyg.ipynb)
+
+### Assignment Set 3: Deadline 4 Apr 2023 (15 Farvardin 1402) at 11:59pm.  
+
+This assignment will guide you through the process of learning node embeddings by following a full pipeline consisting of three steps. First, we will load the Karate Club Network, which is a classic graph in network science, and explore various graph statistics related to it. Next, we will work together to transform the graph structure into a PyTorch tensor, which will enable us to perform machine learning on the graph. Finally, we will write a node embedding model, which is the first learning algorithm on graphs. Although our model is simpler than DeepWalk and node2vec algorithms taught in the lecture, it is still challenging and rewarding as we will write it from scratch using PyTorch. 
+
+It is important to run all the cells sequentially to ensure that intermediate variables and packages carry over to the next cell.
+
