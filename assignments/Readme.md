@@ -30,3 +30,5 @@ This assignment will guide you through the process of learning node embeddings b
 
 It is important to run all the cells sequentially to ensure that intermediate variables and packages carry over to the next cell.
 
+Notebook: [node_embeddings.ipynb](https://github.com/zahta/graph_ml/blob/main/assignments/assignment_set_3/node_embeddings.ipynb)
+
