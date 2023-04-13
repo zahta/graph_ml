@@ -105,6 +105,7 @@ The contents and materials related to the course will be posted here.
     - [node2vec: Embeddings for Graph Data](https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef) by Elior Cohen
     - [Node2vec explained graphically](https://towardsdatascience.com/node2vec-explained-graphically-749e49b7eb6b) by Remy Lau
     - [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) by Chris McCormick 
+    - [How to Use Negative Sampling With Word2Vec Model?](https://analyticsindiamag.com/how-to-use-negative-sampling-with-word2vec-model/) by Vijaysinh Lendave
     - [Understanding Representation Learning With Autoencoder](https://neptune.ai/blog/representation-learning-with-autoencoder#:~:text=It%20is%20a%20modified%20version,autoencoders%2C%20they%20are%20fairly%20limited.) by Nilesh Barla
   - **Video:** 
     - [Graph Embeddings (node2vec) explained - How nodes get mapped to vectors](https://www.youtube.com/watch?v=pS_POUVFXvk) by Philipp Brunenberg
@@ -128,6 +129,7 @@ More information about homeworks, assignments, and projects will be posted here.
 - [Assignment Set 1](https://github.com/zahta/graph_ml/tree/main/assignments#assignment-set-1-deadline-21-feb-2023-2-esfand-1401-at-1159pm): Deadline 21 Feb 2023 (2 Esfand 1401) at 11:59pm.
 - [Assignment Set 2](https://github.com/zahta/graph_ml/blob/main/assignments/Readme.md#assignment-set-2-deadline-17-mar-2023-26-esfand-1401-at-1159pm): Deadline 17 Mar 2023 (26 Esfand 1401) at 11:59pm.
 - [Assignment Set 3](https://github.com/zahta/graph_ml/tree/main/assignments#assignment-set-3-deadline-4-apr-2023-15-farvardin-1402-at-1159pm): Deadline 4 Apr 2023 (15 Farvardin 1402) at 11:59pm.
+- [Assignment Set 4](https://github.com/zahta/graph_ml/blob/main/assignments/Readme.md#assignment-set-4-deadline-25-apr-2023-5-ordibehesht-1402-at-1159pm): Deadline 25 Apr 2023 (5 Ordibehesht 1402) at 11:59pm.
 
 ### :copyright: Honor Code and Submission Policy
 
