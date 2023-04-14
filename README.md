@@ -97,6 +97,7 @@ The contents and materials related to the course will be posted here.
 
 #### Required Reading:
   - **Slide:** [Node Embeddings](http://snap.stanford.edu/class/cs224w-2020/slides/03-nodeemb.pdf) by Jure Leskovec
+  - **Example of node2vec:** [Detailed Example and Implementation](https://github.com/zahta/graph_ml/tree/main/example_node2vec) by Zahra Taheri
 
 #### Suggested Reading:
   - **Blog:** 
