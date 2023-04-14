@@ -42,6 +42,7 @@
 
 ### Tips and Tools for Data Science
 - [Fundamental and Useful Tools and Tips for Data Science](https://github.com/zahta/tools_tips_data_science)
+- [Essential steps to set up your PC for graph machine learning with PyG](https://github.com/zahta/graph_ml/tree/main/setup_pc_for_coding_gml)
 
 ## :closed_book: Other Materials
 ### Books 
