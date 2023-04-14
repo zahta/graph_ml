@@ -1,6 +1,6 @@
 
 
-## Essential steps to set up your PC for graph machine learning with PyG
+## Essential Steps to Set Up Your PC for Graph Machine Learning with PyG
 
 1. Install [miniconda3](https://docs.conda.io/en/latest/miniconda.html)
 
