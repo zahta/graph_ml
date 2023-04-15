@@ -44,7 +44,7 @@
 
 - Another options to install PyG:
 
-  - Base on your python version: https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html
+  - Base on your Python and PyTorch version: https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html
   - For newer versions: https://pytorch-geometric.com/whl/
   - For older versions: https://data.pyg.org/whl/
   - An Installation example for version 1.9.0 of pytorch:
