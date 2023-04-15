@@ -113,7 +113,7 @@ The contents and materials related to the course will be posted here.
     - [Graph Embeddings (node2vec) explained - How nodes get mapped to vectors](https://www.youtube.com/watch?v=pS_POUVFXvk) by Philipp Brunenberg
     - [Node2Vec: Scalable Feature Learning for Networks | ML with Graphs (Research Paper Walkthrough)](https://www.youtube.com/watch?v=LpwGZG5j_q0) by TechViz-The Data Science Guy
   
-### 4. Graph Neural Networks 1: GNN Model
+### 4. Graph Neural Networks 1: 
 
 #### Required Reading:
   - **Slide:** [Graph Neural Networks 1: GNN Model](http://snap.stanford.edu/class/cs224w-2020/slides/06-GNN1.pdf) by Jure Leskovec
@@ -123,7 +123,16 @@ The contents and materials related to the course will be posted here.
     - [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)  
     - [Understanding Convolutions on Graphs](https://distill.pub/2021/understanding-gnns/)
     
+### 5. Graph Neural Networks 2: 
+
+#### Required Reading:
+  - **Slide:** [Graph Neural Networks 2: Design Space](http://snap.stanford.edu/class/cs224w-2020/slides/07-GNN2.pdf) by Jure Leskovec
+
+#### Suggested Reading:
+  - **Blog:** 
+    - [Best Graph Neural Network architectures: GCN, GAT, MPNN and more](https://theaisummer.com/gnn-architectures/#inductive-vs-transductive-learning)  
     
+        
 ## :pencil: Homework and assignment
 
 More information about homeworks, assignments, and projects will be posted here. 
