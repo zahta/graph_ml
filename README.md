@@ -171,5 +171,5 @@ Also, students may ask their questions via the group of the course.
 
 ## :alarm_clock: Exam
 
-- Mid-Term: Sunday, 16 April 2023 (27 Farvardin 1402)
+- Mid-Term: Sunday, 18 April 2023 (29 Farvardin 1402)
 - Final: Saturday, 17 June 2023  (27 Khordad 1402)
