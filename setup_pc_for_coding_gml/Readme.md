@@ -2,9 +2,9 @@
 
 ## Essential Steps to Set Up Your PC for Graph Machine Learning with PyG
 
-1. Install [miniconda3](https://docs.conda.io/en/latest/miniconda.html)
+### 1. Install [miniconda3](https://docs.conda.io/en/latest/miniconda.html)
 
-2. Create a [conda environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) as follows, and execute the following commands
+### 2. Create a [conda environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) as follows, and execute the following commands
 
     ```
     conda create -n gml python pip
@@ -22,25 +22,27 @@
     conda install -c conda-forge matplotlib scikit-learn pandas
     ```
 
-4. Install [PyTorch](https://pytorch.org/get-started/previous-versions/)
+### 3. Install [PyTorch](https://pytorch.org/get-started/previous-versions/)
     ```
     conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 cpuonly -c pytorch
     ```
 
-5. Install NetworkX:
+### 4. Install NetworkX:
     ```
     conda install -c anaconda networkx
     ```
 
-6. Install Scipy:
+### 5. Install Scipy:
     ```
     conda install -c conda-forge scipy
     ```
 
-7. Install PyG(Pytorch-Geometric):
-    ```
-    conda install -c pyg pyg
-    ```
+### 6. Install DGL or PyG(Pytorch-Geometric):
+#### 6.1 Install PyG(Pytorch-Geometric):
+
+```
+conda install -c pyg pyg
+```
 
 - Another options to install PyG:
 
@@ -53,4 +55,8 @@
       pip install torch_sparse -f https://data.pyg.org/whl/torch-1.9.0%2Bcpu.html
       pip install torch-geometric
       ```  
+          
+#### 6.2 Install DGL:
 
+- Base on your system requirements: https://www.dgl.ai/pages/start.html
+        
