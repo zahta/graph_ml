@@ -6,36 +6,36 @@
 
 ### 2. Create a [conda environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) as follows, and execute the following commands
 
-    ```
-    conda create -n gml python pip
-    ```
-    ```
-    conda activate gml
-    ```
-    ```
-    conda install ipykernel
-    ```  
-    ```
-    python -m ipykernel install --user --name gml --display-name "Python (gml)"
-    ```
-    ```
-    conda install -c conda-forge matplotlib scikit-learn pandas
-    ```
+```
+conda create -n gml python pip
+```
+```
+conda activate gml
+```
+```
+conda install ipykernel
+```  
+```
+python -m ipykernel install --user --name gml --display-name "Python (gml)"
+```
+```
+conda install -c conda-forge matplotlib scikit-learn pandas
+```
 
 ### 3. Install [PyTorch](https://pytorch.org/get-started/previous-versions/)
-    ```
-    conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 cpuonly -c pytorch
-    ```
+```
+conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 cpuonly -c pytorch
+```
 
 ### 4. Install NetworkX:
-    ```
-    conda install -c anaconda networkx
-    ```
+```
+conda install -c anaconda networkx
+```
 
 ### 5. Install Scipy:
-    ```
-    conda install -c conda-forge scipy
-    ```
+```
+conda install -c conda-forge scipy
+```
 
 ### 6. Install DGL or PyG(Pytorch-Geometric):
 #### 6.1 Install PyG(Pytorch-Geometric):
