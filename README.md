@@ -141,6 +141,8 @@ More information about homeworks, assignments, and projects will be posted here.
 - [Assignment Set 2](https://github.com/zahta/graph_ml/blob/main/assignments/Readme.md#assignment-set-2-deadline-17-mar-2023-26-esfand-1401-at-1159pm): Deadline 17 Mar 2023 (26 Esfand 1401) at 11:59pm.
 - [Assignment Set 3](https://github.com/zahta/graph_ml/tree/main/assignments#assignment-set-3-deadline-4-apr-2023-15-farvardin-1402-at-1159pm): Deadline 4 Apr 2023 (15 Farvardin 1402) at 11:59pm.
 - [Assignment Set 4](https://github.com/zahta/graph_ml/blob/main/assignments/Readme.md#assignment-set-4-deadline-25-apr-2023-5-ordibehesht-1402-at-1159pm): Deadline 25 Apr 2023 (5 Ordibehesht 1402) at 11:59pm.
+- [Assignment Set 5](https://github.com/zahta/graph_ml/blob/main/assignments/Readme.md#assignment-set-5-deadline-28-apr-2023-8-ordibehesht-1402-at-1159pm): Deadline 28 Apr 2023 (8 Ordibehesht 1402) at 11:59pm.
+- [Assignment Set 6](https://github.com/zahta/graph_ml/blob/main/assignments/Readme.md#assignment-set-6-deadline-5-may-2023-15-ordibehesht-1402-at-1159pm): Deadline 5 May 2023 (15 Ordibehesht 1402) at 11:59pm.
 
 ### :copyright: Honor Code and Submission Policy
 
