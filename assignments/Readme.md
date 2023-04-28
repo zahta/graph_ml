@@ -37,3 +37,15 @@ Notebook: [node_embeddings.ipynb](https://github.com/zahta/graph_ml/blob/main/as
 From the pdf file below, please solve exercises 2.1, 2.3, 2.6, 4.1, 4.2, and 4.3.
 
 File: [CS224W_Winter2223_HW1.pdf](https://github.com/zahta/graph_ml/blob/main/assignments/assignment_set_4/CS224W_Winter2223_HW1.pdf)
+
+### Assignment Set 5: Deadline 28 Apr 2023 (8 Ordibehesht 1402) at 11:59pm. 
+
+Write the Mid-term exam answers and Upload them to your repo.
+
+### Assignment Set 6: Deadline 5 May 2023 (15 Ordibehesht 1402) at 11:59pm. 
+
+Inspired by this [notebook](https://github.com/zahta/graph_ml/blob/main/example_node2vec/DeepWalk_and_node2vec_Implementation_details.ipynb) and based on this [example](https://github.com/zahta/graph_ml/blob/main/example_node2vec/node2vec_example.pdf), do the following exercises:
+  - Give 5 different sets of the hyperparameters `embedding_dim, walk_length, context_size, walks_per_node, p, q`, train the node2vec model on a dataset from the [PyG's Dataset Cheatsheet](https://pytorch-geometric.readthedocs.io/en/latest/cheatsheet/data_cheatsheet.html) (different from the Cora dataset), report your final results of the test set on a table, and compare your results. 
+  - Do the previous part for a given graph, e.g., the graph of this [example](https://github.com/zahta/graph_ml/blob/main/example_node2vec/node2vec_example.pdf).
+  
+         
