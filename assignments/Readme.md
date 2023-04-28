@@ -45,6 +45,6 @@ Write the Mid-term exam answers and Upload them to your repo.
 ### Assignment Set 6: Deadline 5 May 2023 (15 Ordibehesht 1402) at 11:59pm. 
 
 Inspired by this [notebook](https://github.com/zahta/graph_ml/blob/main/example_node2vec/DeepWalk_and_node2vec_Implementation_details.ipynb) and building upon the provided [example](https://github.com/zahta/graph_ml/blob/main/example_node2vec/node2vec_example.pdf), perform the following tasks:
-- Choose a dataset from [PyG's Dataset Cheatsheet](https://pytorch-geometric.readthedocs.io/en/latest/cheatsheet/data_cheatsheet.html), different from Cora, and train the node2vec model with 5 different sets of hyperparameters: `embedding_dim, walk_length, context_size, walks_per_node, p, q`.
+- Choose a dataset from [PyG's Dataset Cheatsheet](https://pytorch-geometric.readthedocs.io/en/latest/cheatsheet/data_cheatsheet.html), different from Cora, and train the node2vec model with 5 different sets of hyperparameters: `embedding_dim, walk_length, context_size, walks_per_node, p, q, number of epochs`.
 - Report the final test set results in a table and compare the outcomes obtained for each set of hyperparameters.
 - Repeat the above steps for a given graph, for example, the graph provided in the [example](https://github.com/zahta/graph_ml/blob/main/example_node2vec/node2vec_example.pdf).         
