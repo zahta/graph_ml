@@ -1,2 +1,2 @@
 
-# Codes related to the graph machine learning has beed added here.
+# Graph Neural Networks with DGL (Deep Graph Library)
