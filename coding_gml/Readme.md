@@ -38,7 +38,7 @@ conda install -c conda-forge scipy
 ```
 
 ### 6. Install DGL or PyG(Pytorch-Geometric):
-#### 6.1 Install PyG(Pytorch-Geometric):
+#### 6.1 Install PyG (Pytorch-Geometric):
 
 ```
 conda install -c pyg pyg
@@ -58,5 +58,35 @@ conda install -c pyg pyg
           
 #### 6.2 Install DGL:
 
-- Base on your system requirements: https://www.dgl.ai/pages/start.html
+##### System Requirements
+
+**Supported OS:**
+
+All Linux distributions no earlier than CentOS 7+ / Ubuntu 18.04.
+
+macOS X 10.9+
+
+Windows 10+ (with VC2015 Redistributable Installed) / Windows server 2016+
+
+Supported Python versions: 3.6, 3.7, 3.8, 3.9, 3.10, 3.11
+
+**Supported deep learning frameworks:**
+
+PyTorch 1.12.0+
+
+Apache MXNet 1.6+
+
+TensorFlow 2.3+.
+
+##### Installation
+
+**With Conda (without cuda):**
+
+conda install -c dglteam dgl
+
+**With pip (without cuda):**
+
+pip install  dgl -f https://data.dgl.ai/wheels/repo.html
+
+pip install  dglgo -f https://data.dgl.ai/wheels-test/repo.html
         
