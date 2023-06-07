@@ -60,7 +60,7 @@ conda install -c pyg pyg
 
 ##### System Requirements
 
-**Supported OS:**
+###### Supported OS:
 
 All Linux distributions no earlier than CentOS 7+ / Ubuntu 18.04.
 
@@ -70,7 +70,7 @@ Windows 10+ (with VC2015 Redistributable Installed) / Windows server 2016+
 
 Supported Python versions: 3.6, 3.7, 3.8, 3.9, 3.10, 3.11
 
-**Supported deep learning frameworks:**
+###### Supported deep learning frameworks:
 
 PyTorch 1.12.0+
 
@@ -80,13 +80,14 @@ TensorFlow 2.3+.
 
 ##### Installation
 
-**With Conda (without cuda):**
-
+###### With Conda (without cuda):
+```
 conda install -c dglteam dgl
-
-**With pip (without cuda):**
-
+```
+###### With pip (without cuda):
+```
 pip install  dgl -f https://data.dgl.ai/wheels/repo.html
-
+```
+```
 pip install  dglgo -f https://data.dgl.ai/wheels-test/repo.html
-        
+```        
